@@ -1,0 +1,19 @@
+# Created with YamlCreate.ps1 v2.2.0 $debug=NVS1.CRLF.5-1-19041-1682.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.2.0.schema.json
+
+PackageIdentifier: Sugarsnooper.Filewire
+PackageVersion: 1.0.2.0
+InstallerType: exe
+Scope: user
+InstallModes:
+- interactive
+InstallerSwitches:
+  Silent: --silent
+  SilentWithProgress: -silent
+UpgradeBehavior: install
+Installers:
+- Architecture: x64
+  InstallerUrl: http://filewire.sugarsnooper.com/mainexe/Updater.exe
+  InstallerSha256: 5BACDD7F231999AAE8D981B6E7C7EAB274A2C800FCB66E5D07F78CDB0B6FB185
+ManifestType: installer
+ManifestVersion: 1.2.0

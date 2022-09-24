@@ -1,0 +1,37 @@
+# Created with YamlCreate.ps1 v2.2.0 $debug=NVS1.CRLF.5-1-19041-1682.Win32NT
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.2.0.schema.json
+
+PackageIdentifier: Sugarsnooper.Filewire
+PackageVersion: 1.0.2.0
+PackageLocale: en-US
+Publisher: SugarSnooper
+PublisherUrl: http://www.sugarsnooper.com
+# PublisherSupportUrl:
+# PrivacyUrl:
+Author: Saksham
+PackageName: FileWire
+PackageUrl: http://app.sugarsnooper.com/filewire
+License: MIT
+# LicenseUrl:
+# Copyright:
+# CopyrightUrl:
+ShortDescription: File sharing application for Windows and Android
+# Description:
+Moniker: filewire
+Tags:
+- android
+- apps
+- files
+- mobile
+- phtos
+- share
+- transfer
+- videos
+# Agreements:
+# ReleaseNotes:
+# ReleaseNotesUrl:
+# PurchaseUrl:
+# InstallationNotes:
+# Documentations:
+ManifestType: defaultLocale
+ManifestVersion: 1.2.0
